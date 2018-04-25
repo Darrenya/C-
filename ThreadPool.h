@@ -4,17 +4,6 @@
 
 // ThreadPool
 
-// 
-
-// Original Author: Jakob Progsch, Václav Zeman
-
-// Modified By:     https://www.shiyanlou.com
-
-// Original Link:   https://github.com/progschj/ThreadPool
-
-//
-
-
 
 #ifndef ThreadPool_hpp
 
